@@ -1,0 +1,102 @@
+.collapse {
+	font-size: 25px;
+}
+
+nav {
+	height: 100px;
+}
+
+.container-fluid {
+	padding-right: 50px;
+	padding-left: 50px;
+	margin-top: 30px;
+	color: #000000;
+}
+
+.btn-tambah {
+	background-color: #8D7AFF;
+	color: #FFFFFF;
+}
+
+.row {
+	margin-top: 10px;
+}
+
+.thead {
+	color: #FFFFFF;
+	background-color: #C4C4C4;
+}
+
+.table {
+	text-align: center;
+}
+
+.btn-show {
+	background-color: rgb(1, 238, 255);
+	color: #FFFFFF;
+	margin-right: 20px;
+}
+
+.btn-ubah {
+	background-color: #82DBD8;
+	color: #FFFFFF;
+	margin-right: 20px;
+}
+
+.btn-hapus {
+	background-color: #FBB89A;
+	color: #FFFFFF;
+}
+
+.sukses {
+	margin-top: 30px;
+	height: 10px;
+}
+
+.bg-success {
+	background-color: #B3E8E5;
+	color: #FFFFFF;
+}
+
+.box-login {
+	padding-right: 100px;
+	padding-left: 100px;
+	border: 1px solid #CEDFD2;
+	box-sizing: border-box;
+	border-radius: 7px;
+}
+
+.logo {
+	filter: drop-shadow(4px 4px 7px rgba(0, 0, 0, 0.25));
+}
+
+footer.blockquote-footer {
+	background-color: #FFFFFF;
+	padding: 5px;
+	padding-right: 20px;
+	margin-bottom: 0px;
+	color: #ffffff;
+	bottom: 0;
+	width: 100%;
+	font-size: 14px;
+}
+
+#body {
+	color: #000000;
+}
+
+.body .li .a {
+	color: #8D7AFF
+}
+
+.nav-link text-light {
+	color: black;
+}
+
+.sr-only {
+	color: black;
+}
+
+.ac {
+	background-color: #82DBD8;
+}
